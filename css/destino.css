@@ -1,0 +1,35 @@
+*
+h1 {
+  color: pink;
+  -webkit-text-stroke: 1px #5e5555;
+  width: auto;
+  text-align: center;
+  font-family: unset;
+  font-size: 40px; }
+
+nav {
+  text-align: center; }
+  nav ul li {
+    background-color: pink;
+    padding: 10px 20px;
+    display: inline;
+    justify-content: center; }
+  nav li:hover {
+    background-color: white; }
+
+main {
+  width: 100%;
+  height: 150vh;
+  background-color: #fcfcfc; }
+  main article {
+    text-align: center;
+    font-family: unset; }
+    main article h2 {
+      background-color: pink; }
+    main article p {
+      background-color: #f0d0d5;
+      width: 800px;
+      margin: auto; }
+
+footer {
+  text-align: center; }
